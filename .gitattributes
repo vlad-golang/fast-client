@@ -1,0 +1,7 @@
+go.sum -diff
+pkg/proto/** -diff
+**/*_mock.go -diff
+internal/mocks/** -diff
+**/mocks/** -diff
+internal/pb/** -diff
+vendor/** -diff
